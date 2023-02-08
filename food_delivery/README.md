@@ -1,16 +1,4 @@
-# food_delivery
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Food App
+![1](https://user-images.githubusercontent.com/124803980/217611630-49111464-ac57-4807-bddd-8651a593f276.PNG)
+![2](https://user-images.githubusercontent.com/124803980/217611638-2dfa176f-ce90-4d33-a616-9a909b127759.PNG)
+![3](https://user-images.githubusercontent.com/124803980/217611640-9e46ae5f-71d2-4aae-ab8a-e6efe7ea832e.PNG)
